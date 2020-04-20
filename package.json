@@ -1,0 +1,8 @@
+{
+  "name": "@natkalia/randomid-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "Natalia Banasiewicz",
+  "keywords": ["id", "identification number", "unique", "generator"]
+}
