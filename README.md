@@ -23,7 +23,7 @@ or
 
 # Features
 
-* accepts one param: desiredi id length as integer
+* accepts one param: desired id length as integer
 * generates random unique identifier (id) 
 * based on letters and numbers 
 * prints generated random id to console
